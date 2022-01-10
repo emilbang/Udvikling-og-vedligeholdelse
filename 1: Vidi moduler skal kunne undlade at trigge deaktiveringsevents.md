@@ -37,3 +37,4 @@ Interessen tilgendegives ved at skrive kundenavn og angive + for interesse og ++
 Geo Fyn ++  
 Kerteminde +  
 MapCentia ++
+Frederiksberg Kommune +
